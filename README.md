@@ -1,6 +1,6 @@
 ## About me
 
-I am a M.Sc. (M2) student in Sorbonne Université's Quantum Information programme. In addition to all things quantum, I love playing with FPGAs, SDR platforms, and microcontrollers. In my spare time, I care for my plants and follow the coolest bands in town.
+I am a MSc (M2) student in Sorbonne Université's Quantum Information programme. In addition to all things quantum, I love playing with FPGAs, SDR platforms, and microcontrollers. In my spare time, I care for my plants and follow the coolest bands in town.
 
 ## Things I worked on during my M1
 
