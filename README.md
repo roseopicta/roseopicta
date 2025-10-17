@@ -32,4 +32,4 @@ I reworked the carrier and symbol timing recovery bits of [QOSST's "Bob" (receiv
 
 <img width="563" height="201" alt="cvqkd" src="https://github.com/user-attachments/assets/fa4afaae-0539-4030-a13f-48f572fe480c" />
 
-(Coming soon!) C reference implementation from which the FPGA system was derived.
+[C reference implementation](https://github.com/roseopicta/embedded_alice) from which the FPGA system was derived.
