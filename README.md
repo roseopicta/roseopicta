@@ -16,12 +16,6 @@ I am currently an intern at Laboratoire Kastler Brossel in Valentina Parigi's gr
 
 [Code](https://github.com/EQ15T/optical_qrc) for the simulations and benchmarks of the paper "Experimental memory control in continuous variable optical quantum reservoir computing" [arXiv:2506.07279v1 [quant-ph]](https://arxiv.org/abs/2506.07279).
 
-### 🚧 Multimode cluster states
-
-<img width="565" height="143" alt="rail_state_covariance" src="https://github.com/user-attachments/assets/9fff359e-19c1-4e1c-918f-2ff91768b76d" />
-
-The covariance matrix reconstruction code used for some of my simulations can be found [here](https://github.com/roseopicta/phase_scan).
-
 ### Optimization of the DSP chain of a CV-QKD receiver.
 
 <img width="472" height="243" alt="skr" src="https://github.com/user-attachments/assets/bc5d9ce9-6cd3-481c-ae3d-67ac5532f9ef" />
